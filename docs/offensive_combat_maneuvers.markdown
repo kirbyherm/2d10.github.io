@@ -4,5 +4,5 @@
 layout: home
 title: "Offensive Combat Maneuvers"
 ---
-    Melee:
-    * [Strike] [./offensive_combat_maneuvers/melee/strike.html]
+Melee:
+* [Strike] [https://www.google.com]
