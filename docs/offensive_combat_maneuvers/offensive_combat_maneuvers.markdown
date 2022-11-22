@@ -5,4 +5,4 @@ layout: post
 title: "Offensive Combat Maneuvers"
 ---
 Melee:
-* [Strike](2d10.github.io/offensive_combat_maneuvers/melee/strike.html)
+* [Strike](melee/strike.html)
