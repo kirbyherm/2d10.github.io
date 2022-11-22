@@ -28,7 +28,7 @@ twitter_username:
 github_username:  
 
 # Build settings
-theme: git-wiki 
+theme: minima 
 plugins:
   - jekyll-feed
 
