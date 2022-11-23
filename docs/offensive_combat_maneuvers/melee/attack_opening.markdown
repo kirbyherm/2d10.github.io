@@ -1,4 +1,5 @@
-
+---
+---
 # Attack Opening
 You make a melee attack with advantage at a target and determine your target wheel as though making a ranged attack.
 * Failure and Critical Failure: Result depends on the target’s defensive maneuver.
