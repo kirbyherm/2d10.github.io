@@ -4,7 +4,8 @@
 layout: default 
 title: "Offensive Combat Maneuvers"
 ---
-Melee Attacks:
+# Offensive Combat Maneuvers
+## Melee Attacks:
 * [Strike](melee/strike.html)
 * [Attack Opening](melee/attack_opening.html)
 * [Charge Attack](melee/charge_attack.html)
