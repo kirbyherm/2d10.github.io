@@ -4,5 +4,10 @@
 layout: post 
 title: "Offensive Combat Maneuvers"
 ---
-Melee:
+Melee Attacks:
 * [Strike](melee/strike.html)
+* [Attack Opening](melee/attack_opening.html)
+* [Charge Attack](melee/charge_attack.html)
+* [Gap Thrust (Finesse)](melee/gap_thrust.html)
+* [Draw Cut (Finesse)](melee/draw_cut.html)
+* [Precise Strike (Finesse)](melee/precise_strike.html)
