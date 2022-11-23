@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Strike"
 ---
 You make a melee attack at a target wheel.
