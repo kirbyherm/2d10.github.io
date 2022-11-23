@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Charge Attack"
 ---
 You make a melee attack with disadvantage at a target wheel. You may only use the Charge Attack maneuver immediately following an action in which you moved at least half of your movement speed in a straight line towards the target. 

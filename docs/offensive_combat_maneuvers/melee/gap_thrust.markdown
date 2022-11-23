@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Gap Thrust"
 ---
 You make a melee thrusting attack at a target wheel, contested by the target’s defensive maneuver. You suffer disadvantage on this attack if using a Light weapon, double disadvantage if using a One- or Two-Handed weapon, or triple disadvantage if using an Oversized weapon.

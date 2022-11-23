@@ -1,4 +1,5 @@
 ---
+layout: default
 title:  "Strike"
 ---
 You make a melee attack at a target wheel.

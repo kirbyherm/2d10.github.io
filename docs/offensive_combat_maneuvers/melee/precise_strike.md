@@ -1,7 +1,7 @@
 ---
+layout: default
+title: Precise Strike
 ---
-
-# Precise Strike
 
 Precise Strike is a modifier for melee attacks that target a hit location. You suffer disadvantage and specify a hit location on the target wheel.
 * Failure and Critical Failure: As the modified maneuver.

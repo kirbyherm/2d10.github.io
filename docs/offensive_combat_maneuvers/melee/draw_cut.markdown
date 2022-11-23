@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Draw Cut"
 ---
 You make a slashing attack with disadvantage at a target wheel with a bladed weapon, contested by the target’s defensive maneuver. 
