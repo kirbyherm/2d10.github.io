@@ -1,5 +1,3 @@
----
----
 
 # Precise Strike
 
