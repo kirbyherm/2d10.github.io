@@ -1,78 +1,67 @@
-<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--
- created with Free Online Sitemap Generator www.xml-sitemaps.com 
--->
-  <url>
-    <loc>https://kirbyherm.github.io/2d10.github.io/</loc>
-    <lastmod>2023-01-12T19:49:18+00:00</lastmod>
-    <priority>1.00</priority>
-  </url>
-  <url>
-    <loc>https://kirbyherm.github.io/2d10.github.io/about/</loc>
-    <lastmod>2023-01-12T19:49:18+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>
-    https://kirbyherm.github.io/2d10.github.io/combat/combat.html
-    </loc>
-    <lastmod>2023-01-12T19:49:18+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>
-    https://kirbyherm.github.io/2d10.github.io/combat/offensive_combat_maneuvers/melee/strike.html
-    </loc>
-    <lastmod>2023-01-12T19:49:18+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>
-    https://kirbyherm.github.io/2d10.github.io/combat/size_and_reach.html
-    </loc>
-    <lastmod>2023-01-12T19:49:18+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>
-    https://kirbyherm.github.io/2d10.github.io/combat/offensive_combat_maneuvers/offensive_combat_maneuvers.html
-    </loc>
-    <lastmod>2023-01-12T19:49:18+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>
-    https://kirbyherm.github.io/2d10.github.io/combat/offensive_combat_maneuvers/melee/attack_opening.html
-    </loc>
-    <lastmod>2023-01-12T19:49:18+00:00</lastmod>
-    <priority>0.51</priority>
-  </url>
-  <url>
-    <loc>
-    https://kirbyherm.github.io/2d10.github.io/combat/offensive_combat_maneuvers/melee/charge_attack.html
-    </loc>
-    <lastmod>2023-01-12T19:49:18+00:00</lastmod>
-    <priority>0.51</priority>
-  </url>
-  <url>
-    <loc>
-    https://kirbyherm.github.io/2d10.github.io/combat/offensive_combat_maneuvers/melee/gap_thrust.html
-    </loc>
-    <lastmod>2023-01-12T19:49:18+00:00</lastmod>
-    <priority>0.51</priority>
-  </url>
-  <url>
-    <loc>
-    https://kirbyherm.github.io/2d10.github.io/combat/offensive_combat_maneuvers/melee/draw_cut.html
-    </loc>
-    <lastmod>2023-01-12T19:49:18+00:00</lastmod>
-    <priority>0.51</priority>
-  </url>
-  <url>
-    <loc>
-    https://kirbyherm.github.io/2d10.github.io/combat/offensive_combat_maneuvers/melee/precise_strike.html
-    </loc>
-    <lastmod>2023-01-12T19:49:18+00:00</lastmod>
-    <priority>0.51</priority>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://kirbyherm.github.io/2d10.github.io/</loc>
+  <lastmod>2023-01-12T19:49:18+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://kirbyherm.github.io/2d10.github.io/about/</loc>
+  <lastmod>2023-01-12T19:49:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kirbyherm.github.io/2d10.github.io/combat/combat.html</loc>
+  <lastmod>2023-01-12T19:49:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kirbyherm.github.io/2d10.github.io/combat/offensive_combat_maneuvers/melee/strike.html</loc>
+  <lastmod>2023-01-12T19:49:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kirbyherm.github.io/2d10.github.io/combat/size_and_reach.html</loc>
+  <lastmod>2023-01-12T19:49:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kirbyherm.github.io/2d10.github.io/combat/offensive_combat_maneuvers/offensive_combat_maneuvers.html</loc>
+  <lastmod>2023-01-12T19:49:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kirbyherm.github.io/2d10.github.io/combat/offensive_combat_maneuvers/melee/attack_opening.html</loc>
+  <lastmod>2023-01-12T19:49:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://kirbyherm.github.io/2d10.github.io/combat/offensive_combat_maneuvers/melee/charge_attack.html</loc>
+  <lastmod>2023-01-12T19:49:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://kirbyherm.github.io/2d10.github.io/combat/offensive_combat_maneuvers/melee/gap_thrust.html</loc>
+  <lastmod>2023-01-12T19:49:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://kirbyherm.github.io/2d10.github.io/combat/offensive_combat_maneuvers/melee/draw_cut.html</loc>
+  <lastmod>2023-01-12T19:49:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://kirbyherm.github.io/2d10.github.io/combat/offensive_combat_maneuvers/melee/precise_strike.html</loc>
+  <lastmod>2023-01-12T19:49:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
