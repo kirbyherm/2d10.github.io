@@ -5,8 +5,7 @@ layout: default
 title: "Damage"
 ---
 
-||Maximum Damage|Bleed|Disruption|
-||||Modifier|Consequence
+||Maximum Damage|Bleed|Disruption Modifier|Disruption Consequence
 |Crown|25*|+1d6|Disadvantage|Knockout
 |Face|25*|+1d6|Disadvantage|Knockout
 |Neck|25*|+1d6||Knockout
