@@ -22,7 +22,9 @@ title: "Damage"
 |Knee|35|-1d6|Disadvantage|Knockdown
 |Shin|35|||Knockdown
 |Foot|30|-1d6||Knockdown
-
-
+|Upper Back|40*|||Knockdown
+|Lower Back|40*||Disadvantage|Knockdown
+|Wings|30||Advantage|Knockdown
+|Tail|25|-1d6|Advantage|Knockdown
 
 *most races dead        **bio males disadvantage
