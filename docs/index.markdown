@@ -17,9 +17,11 @@ Many abilities and maneuvers will grant you advantage or disadvantage. When you 
 ## Supporting an action
 
 One common method of gaining advantage is supporting an action using another skill. For example, an inspiring ally may attempt to support a party member’s Traveling check with their Leadership by giving a pep talk. When attempting a Support action, make a check with the supporting skill. In most cases, the DC will be 10, but the GM may determine a higher or lower DC depending on the difficulty of the task or the salience of the supporting skill, as well as whether the support attempt is possible. For example, an artificer attempting a very difficult Arcana check to reprogram an eldritch machine may not find the party minstrel’s inspirational comedy routine to be particularly helpful.
-Critical Failure: The target suffers disadvantage on their action.
-Success: The target gains advantage on their action.
-Critical Success: The target gains double advantage on their action.
+
+Should the support attempt be made, the typical results would be:
+* Critical Failure: The target suffers disadvantage on their action.
+* Success: The target gains advantage on their action.
+* Critical Success: The target gains double advantage on their action.
 
 An action may be supported by as many allies as is reasonable, though there may be diminishing returns to using the same supporting skill multiple times. In combat, certain abilities or actions may allow you to support either your own or an ally’s actions.
 
