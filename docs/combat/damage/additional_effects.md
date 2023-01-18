@@ -15,19 +15,19 @@ Slashing and piercing attacks that deal at least 10 points of damage leave an op
 ## Disruption
 Whenever you take at least 10 points of Bludgeoning damage, you must make a check to avoid possible disruption at a DC equal to the Bludgeoning damage taken. This can take the form of Knockout, Drop, or Knockdown, as described on the table below. Some hit locations are more or less disruptive, and you may gain Advantage or Disadvantage on the check as indicated on the table.
 * Knockout: The target must make a Tenacity, Grit or Morale check.
-** Critical Success: No effect.
-** Success: The target loses one action and suffers disadvantage on all checks until the end of their next turn.
-** Failure: As success, and the target becomes Unconscious.
-** Critical failure: The target dies.
+    - Critical Success: No effect.
+    - Success: The target loses one action and suffers disadvantage on all checks until the end of their next turn.
+    - Failure: As success, and the target becomes Unconscious.
+    - Critical failure: The target dies.
 * Drop: The target must make a Grip or proficiency with the held item check.
-** Critical Success: No effect.
-** Success: The target suffers disadvantage on all checks made with that arm until the end of their next turn.
-** Failure: As success, and the target drops any items held using that arm.
-** Critical Failure: As failure, except that the target may not attempt any Dexterity, Athletics or Brawn checks until the end of their next turn.
+    - Critical Success: No effect.
+    - Success: The target suffers disadvantage on all checks made with that arm until the end of their next turn.
+    - Failure: As success, and the target drops any items held using that arm.
+    - Critical Failure: As failure, except that the target may not attempt any Dexterity, Athletics or Brawn checks until the end of their next turn.
 * Knockdown: The target must make a Stability or Balance check.
-** Critical Success: No effect.
-** Success: The target’s speed is halved and they suffer disadvantage on all Agility, Athletics and Stability checks until the end of their next turn.
-** Failure: As success, except that the target may not attempt any Agility, Athletics, or Stability checks until the end of their next turn.
+    - Critical Success: No effect.
+    - Success: The target's speed is halved and they suffer disadvantage on all Agility, Athletics and Stability checks until the end of their next turn.
+    - Failure: As success, except that the target may not attempt any Agility, Athletics, or Stability checks until the end of their next turn.
 
 Most weapon attacks deal Bludgeoning damage in addition to either Slashing or Piercing damage. In such cases, both damage rolls are compared to the target’s damage reduction to determine final damage values. The target takes damage equal to the higher of the values, but each value causes wounds and additional effects separately. If an attack forces a Disruption check and deals more Piercing or Slashing damage than Bludgeoning, the target makes the Disruption check with disadvantage. For example, an axe blow that deals 16 Slashing damage and 11 Bludgeoning damage to the upper arm would deal 16 damage to the target and result in a DC 16 Slashing wound and a DC 11 Bludgeoning wound. The target would take 2d6 points of bleed damage per round and would need to make a DC 11 Grip or item proficiency check with disadvantage to avoid dropping whatever was held in that arm.
 
