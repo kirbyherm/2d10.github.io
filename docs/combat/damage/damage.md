@@ -6,6 +6,6 @@ title: "Damage"
 ---
 # Damage
 
-## [Calculating Damage](/2d10.github.io/combat/damage/calculating_damage.html)
-## [Additional Effects](/2d10.github.io/combat/damage/additional_effects.html)
-## [Taking Damage](/2d10.github.io/combat/damage/taking_damage.html)
+## [Calculating Damage](calculating_damage.html)
+## [Additional Effects](additional_effects.html)
+## [Taking Damage](taking_damage.html)
