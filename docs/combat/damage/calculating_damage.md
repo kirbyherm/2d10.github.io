@@ -12,12 +12,14 @@ Once you have hit a target with a weapon attack and determined the hit location,
 1. Deal additional damage based on your strength and weapon, using the multipliers from the table below. 
 1. Any additional damage from magical abilities, talents, or the weapon itself.
 
-|Strength multipliers|Oversize|Two Handed|One Handed|Light|
-|Flexible|||1|0.5|
-|Composite|2.5|2|1.5|1|
-|Bludgeoning|3|2.5|2|1.5|
-|Swung Piercing|3|2.5|2|1.5|
-|Cleaving|3|2.5|2|1.5|
-|Slashing Blade|2.5|2|1.5|1|
-|Thrusting Blade|2|2|1.5|1|
-|Thrusting|2|2|1.5||
+|Strength multipliers|Oversize|Two Handed|One Handed|Light
+|Flexible|||1|0.5
+|Composite|2.5|2|1.5|1
+|Bludgeoning|3|2.5|2|1.5
+|Swung Piercing|3|2.5|2|1.5
+|Cleaving|3|2.5|2|1.5
+|Slashing Blade|2.5|2|1.5|1
+|Thrusting Blade|2|2|1.5|1
+|Thrusting|2|2|1.5|
+
+
