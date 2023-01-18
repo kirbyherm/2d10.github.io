@@ -4,27 +4,8 @@
 layout: default 
 title: "Damage"
 ---
+# Damage
 
-||Maximum Damage|Bleed|Disruption Modifier|Disruption Consequence
-|Crown|25*|+1d6|Disadvantage|Knockout
-|Face|25*|+1d6|Disadvantage|Knockout
-|Neck|25*|+1d6||Knockout
-|Shoulder|30|-1d6||Drop
-|Upper arm|30||Advantage|Drop
-|Elbow|30|-1d6|Disadvantage|Drop
-|Forearm|25|||Drop
-|Hand|25|-1d6|Disadvantage|Drop
-|Chest|40*||Advantage|Knockdown
-|Abdomen|40*|+1d6||Knockdown
-|Hip|40*|||Knockdown
-|Groin|40*|+1d6|**|Knockdown
-|Thigh|40|+1d6|Advantage|Knockdown
-|Knee|35|-1d6|Disadvantage|Knockdown
-|Shin|35|||Knockdown
-|Foot|30|-1d6||Knockdown
-|Upper Back|40*|||Knockdown
-|Lower Back|40*||Disadvantage|Knockdown
-|Wings|30||Advantage|Knockdown
-|Tail|25|-1d6|Advantage|Knockdown
-
-*most races dead        **bio males disadvantage
+## [Calculating Damage](/2d10.github.io/combat/damage/calculating_damage.html)
+## [Additional Effects](/2d10.github.io/combat/damage/additional_effects.html)
+## [Taking Damage](/2d10.github.io/combat/damage/taking_damage.html)
