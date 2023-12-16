@@ -2985,17 +2985,17 @@ In addition to variation in damage, skill required, and size, all
 weapons have at least one special tag that provides an additional
 feature or drawback. Each ability is summarized in the table below.
 
-  Simple        Advantage on Melee Attacks
-  ------------- -----------------------------
-  Balanced      Advantage on Parries
-  Unbalanced    Disadvantage on Parries
-  Binding       Advantage on Bind attempts
-  Hafted        Advantage on Shove attempts
-  Polearm       Enables Haft weapon option
-  Lance         Enables Lance weapon option
-  Penetrating   Penetrates Maille armor
-  Slicing       Penetrates Organic armor
-  Sundering     Penetrates Plate Armor
+  | Simple       | Advantage on Melee Attacks   |
+  | -------------| -----------------------------|
+  | Balanced     | Advantage on Parries         |
+  | Unbalanced   | Disadvantage on Parries      |
+  | Binding      | Advantage on Bind attempts   |
+  | Hafted       | Advantage on Shove attempts  |
+  | Polearm      | Enables Haft weapon option   |
+  | Lance        | Enables Lance weapon option  |
+  | Penetrating  | Penetrates Maille armor      |
+  | Slicing      | Penetrates Organic armor     |
+  | Sundering    | Penetrates Plate Armor       |
 
 Armor
 -----
